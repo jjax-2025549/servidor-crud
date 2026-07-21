@@ -1,0 +1,11 @@
+{
+  "name": "servidor-crud",
+  "version": "1.0.0",
+  "description": "Servidor HTTP nativo con Node.js - CRUD de Productos y Clientes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Julian Jax - jjax-2025549",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Julian",
+    "apellido": "Perez",
+    "correo": "julian.perez@example.com",
+    "telefono": "55512345",
+    "direccion": "Zona 1, Ciudad de Guatemala",
+    "estado": "activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria",
+    "apellido": "Lopez",
+    "correo": "maria.lopez@example.com",
+    "telefono": "55598765",
+    "direccion": "Zona 7, Ciudad de Guatemala",
+    "estado": "activo"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mouse Inalambrico",
+    "descripcion": "Mouse optico inalambrico 2.4GHz",
+    "precio": 75.5,
+    "stock": 20,
+    "categoria": "Perifericos",
+    "estado": "activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecanico",
+    "descripcion": "Teclado mecanico switches rojos",
+    "precio": 250,
+    "stock": 10,
+    "categoria": "Perifericos",
+    "estado": "activo"
+  }
+]
